@@ -25,16 +25,11 @@
 ---
 
 ## 📸 Screenshots
-| Login Screen | Interactive Map | Main Menu |
+
+| Vista 1 | Vista 2 | Vista 3 |
 |:---:|:---:|:---:|
-| ![Imagen1](https://github.com/user-attachments/assets/88b856fd-7018-414b-a277-770c3853498a)
-|![Imagen2](https://github.com/user-attachments/assets/fd704358-5cc6-4122-a5a4-a7a224c4592b)
-|![Imagen3](https://github.com/user-attachments/assets/57bbbc02-10d6-4e9a-9d35-57eed2588892)
-|![Imagen4](https://github.com/user-attachments/assets/9af3d901-0d3d-48ce-8dc8-cbb6ccea4928)
-|![Imagen5](https://github.com/user-attachments/assets/a16a4609-2c83-4aee-bcd0-8dff1db1b82b)
-|![Imagen6](https://github.com/user-attachments/assets/897a64fd-9df5-4c3f-b58e-daf474e74391)
-
-
+| ![Imagen1](https://github.com/user-attachments/assets/88b856fd-7018-414b-a277-770c3853498a) | ![Imagen2](https://github.com/user-attachments/assets/fd704358-5cc6-4122-a5a4-a7a224c4592b) | ![Imagen3](https://github.com/user-attachments/assets/57bbbc02-10d6-4e9a-9d35-57eed2588892) |
+| ![Imagen4](https://github.com/user-attachments/assets/9af3d901-0d3d-48ce-8dc8-cbb6ccea4928) | ![Imagen5](https://github.com/user-attachments/assets/a16a4609-2c83-4aee-bcd0-8dff1db1b82b) | ![Imagen6](https://github.com/user-attachments/assets/897a64fd-9df5-4c3f-b58e-daf474e74391) |
 
 
 ---
